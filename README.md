@@ -38,7 +38,7 @@ I'm currently tracking the following metadata for each entry:
 
 - **Language**: The language(s) used by the workflow system to describe workflows (or "GUI" if a graphical interface is supported).
 
-- **Domain**: The application domain from which the workflow system originated. Note that many workflow systems are designed to be general-purpose even though they may have started out in a particular domain.
+- **Domain**: The application domain from which the workflow system originated. Note that many workflow systems are designed to be general-purpose even though they may have started out in a particular domain. Note also that [categories are hard](https://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set), and you could spend an eternity trying to find the best way to categorize a dataset. I have avoided this trap by using a few broad categories that more or less delineate the variations in workflow systems that interest me.
 
 - **GitHub Stars**: Number of stars for entries that are on GitHub. Note that [stars might be fake](https://dagster.io/blog/fake-stars), so don't take this metric too seriously. It can be fun to compare projects based on stars (or some composite metric based on issues, PRs, commits, etc) to figure out which ones are more popular, but if you're trying to decide which one to use, you should evaluate each option based on how well it enables you to do whatever you're trying to do. Really you should just use [Nextflow](https://github.com/nextflow-io/nextflow/commits?author=bentsherman).
 
