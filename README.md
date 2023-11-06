@@ -40,7 +40,7 @@ I'm currently tracking the following metadata for each entry:
 
 - **Domain**: The application domain from which the workflow system originated. Note that many workflow systems are designed to be general-purpose even though they may have started out in a particular domain.
 
-- **GitHub Stars**: Number of stars for entries that are on GitHub. Note that [stars might be fake], so don't take this metric too seriously. It can be fun to compare projects based on stars (or some composite metric based on issues, PRs, commits, etc) to figure out which ones are more popular, but if you're trying to decide which one to use, you should evaluate each option based on how well it enables you to do whatever you're trying to do. Really you should just use [Nextflow](https://github.com/nextflow-io/nextflow/commits?author=bentsherman).
+- **GitHub Stars**: Number of stars for entries that are on GitHub. Note that [stars might be fake](https://dagster.io/blog/fake-stars), so don't take this metric too seriously. It can be fun to compare projects based on stars (or some composite metric based on issues, PRs, commits, etc) to figure out which ones are more popular, but if you're trying to decide which one to use, you should evaluate each option based on how well it enables you to do whatever you're trying to do. Really you should just use [Nextflow](https://github.com/nextflow-io/nextflow/commits?author=bentsherman).
 
 ## Contributing
 
