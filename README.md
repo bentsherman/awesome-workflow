@@ -1,6 +1,6 @@
 # awesome-workflow
 
-A curated list of awesome workflow systems.
+An awesome list of workflow systems.
 
 Sources:
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
@@ -8,7 +8,7 @@ Sources:
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines)
 - [Wikipedia](https://en.wikipedia.org/wiki/Workflow_management_system)
 
-I curated this list to document the workflow systems that exist across many different domains, while adhering to a particular definition of "workflow system". The entries are stored in a tabular format so that I can add metadata and perform analyses more easily.
+I curated this list to document the workflow systems that exist across many different domains, while trying to adhere to a specific definition of "workflow system". The entries are stored in a tabular format so that I can add metadata and perform analyses more easily.
 
 ## Guidelines
 

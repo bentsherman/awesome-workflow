@@ -1,0 +1,299 @@
+name,url,language,domain,github_stars
+Activepieces,https://github.com/activepieces/activepieces,GUI,IT automation,3884
+Activi,https://github.com/Activiti/Activiti,GUI,Business process management,9674
+Adage,https://github.com/yadage/adage,Python,,51
+AiiDA,https://github.com/aiidateam/aiida-core,Python,Materials science,379
+AlphaSQL,https://github.com/Matts966/alphasql,SQL,Data science,49
+AnADAMA2,https://github.com/biobakery/anadama2,Python,Biology,8
+Anduril,https://bitbucket.org/anduril-dev/anduril,Scala,Biology,
+Apache Airavata,https://github.com/apache/airavata,GUI,,92
+Apache Airflow,https://github.com/apache/airflow,Python,Data engineering,32311
+Apache Ant,https://github.com/apache/ant,XML,Build automation,391
+Apache Beam,https://github.com/apache/beam,Java / Python / Go,Data engineering,7223
+Apache DolphinScheduler,https://github.com/apache/dolphinscheduler,GUI / YAML,Data engineering,11313
+Apache Maven,https://github.com/apache/maven,XML,Build automation,3930
+Apache NiFi,https://github.com/apache/nifi,GUI / XML,Data engineering,4061
+Apache OODT,https://github.com/apache/oodt,XML,Data engineering,63
+Apache Oozie,https://github.com/apache/oozie,XML,Data engineering,689
+Apache StreamPipes,https://github.com/apache/streampipes,GUI / Java,IT automation,465
+Apache Taverna,https://taverna.incubator.apache.org/,XML,Biology,
+Apollo,https://github.com/Apollo-Core,YAML,,
+Argo,https://github.com/argoproj/argo,YAML,,13641
+Arvados,https://github.com/arvados/arvados,CWL,Biology,353
+Askalon,http://www.askalon.org/,GUI / XML,,
+Automatiko,https://github.com/automatiko-io/automatiko-engine,GUI / Java,IT automation,63
+autosubmit,https://earth.bsc.es/gitlab/es/autosubmit,YAML,Earth science,
+AWE,https://github.com/MG-RAST/AWE,CWL,Biology,69
+AWS Step Functions,https://aws.amazon.com/step-functions/,GUI / JSON,IT automation,
+Azkaban,https://github.com/azkaban/azkaban,YAML,Data engineering,4336
+Azure Logic Apps,https://azure.microsoft.com/en-us/products/logic-apps,GUI / JSON,IT automation,
+Balsam,https://github.com/argonne-lcf/balsam,Python,,70
+BASTet,https://github.com/biorack/BASTet,Python,Chemistry,6
+bcbio,https://github.com/bcbio/bcbio-nextgen,YAML,Biology,953
+BD-Processor,https://github.com/big-data-processor/big-data-processor,GUI,,12
+bds,https://github.com/pcingola/bds,Bash-like,Biology,6
+BioDSL,https://github.com/maasha/BioDSL,Ruby,BIology,15
+Biomake,https://github.com/evoldoers/biomake,Make / Prolog,Biology,93
+Bionode-Watermill,https://github.com/bionode/bionode-watermill,Node.js,Biology,36
+BioQueue,https://github.com/liyao001/BioQueue,GUI,Biology,27
+Bioshake,https://github.com/PapenfussLab/bioshake,Nix,Biology,55
+bistro,https://github.com/pveber/bistro,OCaml,Biology,45
+Bonita,https://github.com/bonitasoft/bonita-engine,GUI,Business process management,139
+Bpipe,https://github.com/ssadedin/bpipe,Groovy / DSL,Biology,221
+Brane,https://github.com/epi-project/brane,BraneScript,,8
+briefly,https://github.com/bloomreach/briefly,Python,Data engineering,103
+Brigade,https://github.com/brigadecore/brigade,YAML,IT automation,2396
+Butler,https://github.com/yakneens/butler,CWL / Python,Biology,68
+C++ Workflow,https://github.com/sogou/workflow,C++,IT automation,11677
+Cadence,https://github.com/uber/cadence,Go / Java,IT automation,7398
+Captain,https://github.com/LiveRamp/captain,Java,IT automation,34
+CDS,https://github.com/ovh/cds,GUI,IT automation,4322
+CGraph,https://github.com/ChunelFeng/CGraph,C++,,1125
+Chipster,https://github.com/chipster/chipster,GUI,Biology,33
+CK,https://github.com/ctuning/ck,JSON,,546
+CloudSlang,https://github.com/CloudSlang/cloud-slang,YAML,IT automation,228
+ClusterFlow,https://github.com/ewels/clusterflow,DSL,Biology,96
+COMP Superscalar,https://github.com/bsc-wdc/compss,C++ / Java / Python,,39
+Compi,https://github.com/sing-group/compi,XML,,8
+Conductor,https://github.com/Netflix/conductor,GUI / JSON,IT automation,12334
+Consecution,https://github.com/robdmc/consecution,Python,Data engineering,169
+COPPER,https://github.com/copper-engine/copper-engine,Java,,247
+CoreWF,https://github.com/UiPath/corewf,C# / XML,IT automation,1068
+Cosmos,https://github.com/Mizzou-CBMI/COSMOS2,Python,Biology,70
+Couler,https://github.com/couler-proj/couler,Python,Data engineering,851
+Covalent,https://github.com/AgnostiqHQ/covalent,Python,Data science,574
+Cromwell,https://github.com/broadinstitute/cromwell,WDL,Biology,931
+Cuneiform,https://github.com/joergen7/cuneiform,Erlang,Data science,220
+cwlexec,https://github.com/IBMSpectrumComputing/cwlexec,CWL,,35
+cwltool,https://github.com/common-workflow-language/cwltool,CWL / Python,,316
+Cylc,https://github.com/cylc/cylc-flow,DSL,Earth science,303
+Dagger,https://github.com/wayfair-incubator/dagger,Python,IT automation,35
+DAGMan,https://github.com/htcondor/htcondor,DSL,,252
+Dagobah,https://github.com/thieman/dagobah,Python,,749
+Dagr,https://github.com/fulcrumgenomics/dagr,Scala / DSL,Biology,69
+Dagster,https://github.com/dagster-io/dagster,Python,Data science,8807
+Dagu,https://github.com/dagu-dev/dagu,GUI / YAML,,941
+DALiuGE,https://github.com/ICRAR/daliuge,GUI / Python,Physics,23
+Dask,https://github.com/dask/dask,Python,Data science,11504
+Data Version Control,https://github.com/iterative/dvc,CLI,Data science,12368
+Databolt Flow,https://github.com/d6t/d6tflow,Python,,947
+DataFlows,https://github.com/datahq/dataflows,Python,,182
+DataJoint,https://github.com/datajoint/datajoint-python,Python,Neuroscience,157
+Datapackage Pipelines,https://github.com/frictionlessdata/datapackage-pipelines,YAML,,115
+DATAVIEW,https://github.com/shiyonglu/DATAVIEW,GUI / Java,Data science,11
+dbt,https://github.com/dbt-labs/dbt-core,Python / SQL,Data engineering,7751
+dflow,https://github.com/deepmodeling/dflow,Python,,42
+dgsh,https://github.com/dspinellis/dgsh,Bash-like,,296
+Digdag,https://github.com/treasure-data/digdag/,Python,,
+dispel4py,https://github.com/dispel4py/dispel4py,Python,,23
+Dockerflow,https://github.com/googlegenomics/dockerflow,YAML,Biology,97
+Dog,https://github.com/dogtools/dog,Go / YAML,,83
+doit,https://github.com/pydoit/doit,Python,Build automation,1712
+Drake,https://github.com/Factual/drake,DSL,,1481
+dray,https://github.com/CenturyLinkLabs/dray,JSON,,380
+drmr,https://github.com/ParkerLab/drmr,Bash,,3
+Durable Task Framework,https://github.com/Azure/durabletask,C#,IT automation,1360
+Easy Rules,https://github.com/j-easy/easy-rules,Java,,4611
+ecFlow,https://github.com/ecmwf/ecflow,DSL,Earth science,33
+eHive,https://github.com/Ensembl/ensembl-hive,Perl,Biology,49
+Elsa Workflows,https://github.com/elsa-workflows/elsa-core,C#,IT automation,5146
+endofday,https://github.com/joestubbs/endofday,YAML,Biology,11
+Ensemble Toolkit,https://github.com/radical-cybertools/radical.entk,Python,,29
+Enso,https://github.com/enso-org/enso,GUI / Enso,Data science,6642
+Excel,https://www.microsoft.com/en-us/microsoft-365/excel,GUI,,
+FASTR,https://gitlab.com/radiology/infrastructure/fastr,Python,Biology,
+FireWorks,https://github.com/materialsproject/fireworks,Python / YAML,Materials science,297
+Fission Workflows,https://github.com/fission/fission-workflows,YAML,IT automation,356
+flor,https://github.com/floraison/flor,Ruby / DSL,,239
+Flowable,https://github.com/flowable/flowable-engine,GUI,Business process management,6889
+flowr,https://github.com/sahilseth/flowr,R / CSV,Biology,81
+Flyte,https://github.com/flyteorg/flyte,Python,,4096
+ForML,https://github.com/formlio/forml,Python,Data science,103
+Fractalide,https://github.com/fractalide/fractalide,Nix / Rust,,833
+funsies,https://github.com/aspuru-guzik-group/funsies,Python,,37
+Galaxy,https://github.com/galaxyproject/galaxy,GUI,Biology,1176
+GC3Pie,https://github.com/gc3pie/gc3pie,Python,,43
+Geoweaver,https://github.com/ESIPFed/Geoweaver,GUI,Earth science,41
+GinFlow,https://bitbucket.org/ginflow/hocl-workflow/,GUI / JSON / Java,,
+GiraffeTools,https://github.com/GiraffeTools/GiraffeTools,GUI / YAML,Neuroscience,47
+GitHub Actions,https://github.com/features/actions,YAML,IT automation,
+Globus Flows,https://docs.globus.org/api/flows/,JSON / YAML,,
+Goflow,https://github.com/fieldryand/goflow,Go,,192
+Google Cloud Build,https://cloud.google.com/build,YAML,Build automation,
+Google Cloud Workflows,https://cloud.google.com/workflows,YAML,IT automation,
+Gradle,https://github.com/gradle/gradle,Groovy / DSL,Build automation,15390
+Guix Workflow Language,https://www.guixwl.org/,Guile Scheme,,
+gwf,https://github.com/gwforg/gwf,Python,Biology,27
+Hamilton,https://github.com/dagworks-inc/hamilton,Python,Data engineering,1031
+Hex,https://hex.tech/,GUI / Notebook,Data science,
+Houdini,https://www.sidefx.com/products/houdini/,GUI,Computer animation,
+hpcflow,https://github.com/LightForm-group/hpcflow,YAML,,1
+Huginn,https://github.com/huginn/huginn,GUI,IT automation,39684
+HyperFlow,https://github.com/hyperflow-wms/hyperflow,JSON / JavaScript,,64
+HyperLoom,https://code.it4i.cz/ADAS/loom,Python,,
+HyperShell,https://github.com/glentner/hyper-shell,CLI,,11
+IDseq,https://github.com/chanzuckerberg/idseq-dag,Python / JSON,,26
+Imixs-Workflow,https://github.com/imixs/imixs-workflow,GUI,Business process management,311
+Invoke,https://github.com/pyinvoke/invoke,Python,,4117
+jBPM,https://github.com/kiegroup/jbpm,GUI,Business process management,1539
+Jenkins,https://github.com/jenkinsci/jenkins,Groovy / DSL,IT automation,21606
+JMS,https://github.com/RUBi-ZA/JMS,GUI,Biology,19
+jobflow,https://github.com/materialsproject/jobflow,Python,,58
+JUDI,https://github.com/ncbi/JUDI,Python,Biology,32
+Jug,https://github.com/luispedro/jug,Python,,405
+Jupyter Workflow,https://github.com/alpha-unito/jupyter-workflow,GUI / Notebook,,7
+Just,https://github.com/casey/just,Make-like,Build automation,14275
+Kapacitor,https://github.com/influxdata/kapacitor,DSL,Data engineering,2247
+Kedro,https://github.com/quantumblacklabs/kedro,Python,,8974
+Kepler,https://github.com/icyphy/kepler-build,GUI,,4
+Kestra,https://github.com/kestra-io/kestra,GUI / YAML,Data engineering,4897
+Ketrew,https://github.com/hammerlab/ketrew,OCaml,,74
+Kiba,https://github.com/thbar/kiba,Ruby / DSL,Data engineering,1711
+KNIME,https://github.com/knime/knime-core,GUI,Data science,480
+Kogito,https://github.com/kiegroup/kogito-runtimes,GUI / Java,IT automation,11
+Kronos,https://github.com/jtaghiyar/kronos,YAML,Biology,18
+Kubeflow Pipelines,https://github.com/kubeflow/pipelines,Python / YAML,Data engineering,3323
+Kurator-Akka,https://github.com/kurator-org/kurator-akka,YAML / Java / Python,Biology,7
+LabVIEW,https://www.ni.com/en-us/shop/labview.html,GUI,Systems engineering,
+Laravel Workflow,https://github.com/laravel-workflow/laravel-workflow,PHP,IT automation,634
+LAW,https://github.com/riga/law,Python,Physics,80
+LONI Pipeline,http://pipeline.loni.usc.edu/,GUI,,
+Loom,https://github.com/StanfordBioinformatics/loom,YAML,Biology,29
+looper,https://github.com/pepkit/looper,YAML,,15
+Luigi,https://github.com/spotify/luigi,Python,Data engineering,16886
+MaDaTs,https://github.com/dghoshal-lbl/madats,Python / YAML,,1
+Maestro,https://github.com/LLNL/maestrowf,YAML,,121
+Mage,https://github.com/mage-ai/mage-ai,GUI / Notebook,Data science,5825
+maize,https://github.com/MolecularAI/maize,Python,Chemistry,2
+Make,https://www.gnu.org/software/make/,Make,Build automation,
+Makeflow,https://github.com/cooperative-computing-lab/makeflow-examples,DSL,Biology,32
+Mara Pipelines,https://github.com/mara/mara-pipelines,Python,Data engineering,2026
+Mario,https://github.com/intentmedia/mario,Scala,Data engineering,139
+Martian,https://github.com/martian-lang/martian,DSL,Biology,138
+Max/MSP,https://cycling74.com/products/max,DSL,Audio engineering,
+Metaflow,https://github.com/Netflix/metaflow,Python,,7124
+Metapipe,https://github.com/TorkamaniLab/metapipe,DSL,,12
+Mistral,https://github.com/openstack/mistral,YAML,IT automation,251
+mlr3pipelines,https://github.com/mlr-org/mlr3pipelines,R,,125
+MPipe,https://github.com/vmlaker/mpipe,Python,,81
+MyQueue,https://gitlab.com/myqueue/myqueue,Python,,
+n8n,https://github.com/n8n-io/n8n,GUI / JSON,IT automation,34789
+NeatSeq-Flow,https://github.com/bioinfo-core-BGU/neatseq-flow,GUI / YAML,Biology,3
+Nextflow,https://github.com/nextflow-io/nextflow,Groovy / DSL,Biology,2197
+nFlow,https://github.com/NitorCreations/nFlow,Java,IT automation,166
+nipype,https://github.com/nipy/nipype,Python,Neuroscience,703
+nnodes,https://github.com/icui/nnodes,Python,,2
+Node-RED,https://github.com/node-red/node-red,GUI / JavaScript,IT automation,17567
+NoFlo,https://github.com/noflo/noflo,JavaScript,,3428
+Noodles,https://github.com/NLeSC/noodles,Python,,21
+Occam,https://occam.cs.pitt.edu/,GUI,,
+OpenMOLE,https://github.com/openmole/openmole,DSL,,138
+Ophidia,https://github.com/OphidiaBigData/ophidia-server,JSON,Data science,4
+Orange,https://github.com/biolab/orange3,GUI,Data science,4336
+Orchest,https://github.com/orchest/orchest,GUI,Data science,3973
+Overseer,https://github.com/framed-data/overseer,Clojure,,90
+Pachyderm,https://github.com/pachyderm/pachyderm,JSON,,5999
+Pallets,https://github.com/linkyndy/pallets,Ruby / DSL,,230
+PanDA WMS,https://github.com/PanDAWMS/pandawms,CLI,,4
+Parsl,https://github.com/Parsl/parsl,Python,,413
+Pegasus,https://github.com/pegasus-isi/pegasus,XML,,164
+PhpFlo,https://github.com/phpflo/phpflo,PHP,,216
+Pinball,https://github.com/pinterest/pinball,Python,Data engineering,1047
+PipelineDog,https://github.com/zhouanbo/pipelinedog-web,GUI / YAML,,0
+Pipelines,https://github.com/calebwin/pipelines,Python,,372
+pipen,https://github.com/pwwang/pipen,Python,,94
+PipEngine,https://github.com/fstrozzi/bioruby-pipengine,YAML,Biology,20
+Piper,https://github.com/NationalGenomicsInfrastructure/piper,Scala / XML,Biology,9
+Ploomber,https://github.com/ploomber/ploomber,Python / YAML,Data science,3237
+Plumbing and Graph,https://github.com/plumatic/plumbing,Clojure,,1479
+PLynx,https://github.com/plynx-team/plynx,GUI / Python,Data science,280
+pmake,https://code.ornl.gov/99R/pmake,YAML,,
+Popper,https://github.com/getpopper/popper,YAML,,294
+Porcupine,https://github.com/TimVanMourik/Porcupine,Python,,61
+Prefect,https://github.com/PrefectHQ/prefect,Python,Data engineering,13187
+ProActive,https://github.com/ow2-proactive/scheduling,GUI / XML,IT automation,58
+Prodmodel,https://github.com/prodmodel/prodmodel,Python,Data science,55
+Produce,https://github.com/texttheater/produce,DSL,Data science,17
+pydra,https://github.com/nipype/pydra,Python,,106
+pyFlow,https://github.com/Illumina/pyflow,Python,Biology,135
+pyiron,https://github.com/pyiron/pyiron,Python,Materials science,302
+pypeFLOW,https://github.com/PacificBiosciences/pypeFLOW,Python,Biology,10
+Pypeln,https://github.com/cgarciae/pypeln,Python,,1484
+pyperator,https://github.com/baffelli/pyperator,Python,,53
+pypipegraph,https://github.com/IMTMarburg/pypipegraph,Python,,0
+pypiper,https://github.com/databio/pypiper/,Python,,
+pypyr,https://github.com/pypyr/pypyr/,YAML,,
+Pythonflow,https://github.com/spotify/pythonflow,Python,,278
+PyTorch,https://github.com/pytorch/pytorch,Python,Data science,72343
+Rabix,https://github.com/rabix/rabix,CWL,Biology,107
+Rain,https://github.com/substantic/rain,Python,Data science,727
+Rake,https://github.com/ruby/rake,Ruby,Build automation,2272
+REANA,https://github.com/reanahub/reana,CWL,Physics,115
+redo,https://github.com/apenwarr/redo,DSL,Build automation,1743
+redun,https://github.com/insitro/redun,Python,,462
+Reflow,https://github.com/grailbio/reflow,DSL,Biology,949
+Remake,https://github.com/richfitz/remake,YAML / R,,338
+Resolwe,https://github.com/genialis/resolwe,CWL,Biology,34
+River,https://github.com/javrasya/django-river,Python,IT automation,716
+Roddy,https://github.com/TheRoddyWMS/Roddy,Groovy,Biology,8
+Ruffus,https://github.com/cgat-developers/ruffus,Python,Biology,173
+Rundeck,https://github.com/rundeck/rundeck,YAML,IT automation,5118
+S4M,https://bitbucket.org/uqokorn/s4m_base/,Bash,Biology,
+Sake,https://github.com/tonyfischetti/sake,YAML,Data science,265
+SciFlow,https://github.com/kaizhang/SciFlow,Haskell,Biology,50
+SciLuigi,https://github.com/pharmbio/sciluigi,Python,Biology,327
+SciPipe,https://github.com/scipipe/scipipe/,Go,Biology,
+SCOOP,https://github.com/soravux/scoop/,Python,,
+Selinon,https://github.com/selinon/selinon,Python,,291
+Shake,https://github.com/ndmitchell/shake,Haskell,Build automation,746
+signac,https://github.com/glotzerlab/signac,Python,Materials science,125
+SimStack,https://www.simstack.de/,GUI,Materials science,
+Simulink,https://www.mathworks.com/products/simulink.html,GUI,Systems engineering,
+SmartPipeline,https://github.com/giacbrd/SmartPipeline,Python,Data engineering,16
+Snakemake,https://github.com/snakemake/snakemake,Python / DSL,Biology,1968
+SoS Workflow,https://github.com/vatlab/SoS,DSL,Biology,260
+SpiffWorkflow,https://github.com/sartography/SpiffWorkflow,GUI / XML,IT automation,1524
+Squonk,https://squonk.it/,GUI / Notebook,Chemistry,
+StackStorm,https://github.com/StackStorm/st2,GUI / YAML,IT automation,5740
+Stimela,https://github.com/caracal-pipeline/stimela,YAML,Physics,3
+STOA,https://github.com/petehague/Stoa,GUI / CWL,Physics,0
+Stolos,https://github.com/sailthru/stolos,JSON,,127
+StreamFlow,https://github.com/alpha-unito/streamflow,CWL,,40
+Streamz,https://github.com/python-streamz/streamz,Python,Data engineering,1192
+swif2,https://scicomp.jlab.org/docs/swif2,CLI,,
+Swift,http://swift-lang.org/,Swift,,
+targets,https://github.com/ropensci/targets/,R,,
+Task,https://github.com/go-task/task,YAML,,8861
+TaskFlow,https://github.com/openstack/taskflow,Python,IT automation,339
+TaskGraph,https://github.com/natcap/taskgraph,Python,,20
+TaskVine,https://ccl.cse.nd.edu/software/taskvine/,Python,,
+Tekton,https://github.com/tektoncd/pipeline,YAML,IT automation,8074
+Temporal,https://github.com/temporalio/temporal,Go / Java,IT automation,8401
+TensorFlow,https://github.com/tensorflow/tensorflow,Python,Data science,178638
+Texera,https://github.com/Texera/texera,GUI,,140
+Titanoboa,https://github.com/commsor/titanoboa,GUI / Java,IT automation,897
+Toil,https://github.com/DataBiosphere/toil,Python / CWL / WDL,Biology,852
+Tork,https://github.com/runabol/tork,YAML,,341
+TriggerFlow,https://github.com/triggerflow/triggerflow,Python,IT automation,43
+uap,https://github.com/kmpf/uap,YAML,Biology,4
+UNICORE,https://github.com/UNICORE-EU/workflow,JSON,,0
+Unipro UGENE,https://github.com/ugeneunipro/ugene,GUI,Biology,181
+uTask,https://github.com/ovh/utask,YAML,IT automation,1004
+Viewflow,https://github.com/viewflow/viewflow,GUI / XML,IT automation,2464
+VisTrails,https://sourceforge.net/projects/vistrails/,GUI / XML,Earth science,
+Walrus,https://github.com/fjukstad/walrus,JSON / YAML,Biology,12
+Watchdog,https://github.com/klugem/watchdog,GUI / XML,Biology,12
+Wexflow,https://github.com/aelassas/wexflow,GUI / XML / C#,IT automation,361
+Wick (a.k.a. Wasmflow),https://github.com/candlecorp/wick,WebAssembly,,380
+Windmill,https://github.com/windmill-labs/windmill,GUI,IT automation,6255
+WINGS,https://github.com/KnowledgeCaptureAndDiscovery/wings,GUI,Data science,45
+WopMars,https://github.com/aitgon/wopmars,Python / DSL,,1
+Workflow Core,https://github.com/danielgerlag/workflow-core,C# / JSON / YAML,IT automation,4846
+Workflow Engine,https://github.com/optimajet/WorkflowEngine.NET,GUI / XML,IT automation,826
+xp,https://github.com/druths/xp,DSL,Data science,54
+yapp,https://github.com/picanumber/yapp,C++,,54
+YAWL,https://github.com/yawlfoundation/yawl,GUI / XML,Business process management,80
+YesWorkflow,https://github.com/yesworkflow-org/yw,DSL,,5
+Zeebe,https://github.com/camunda/zeebe,GUI,IT automation,2868
+ZenML,https://github.com/zenml-io/zenml,Python,Data engineering,3237
+ZnFlow,https://github.com/zincware/ZnFlow,Python,,4

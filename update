@@ -1,0 +1,81 @@
+#!/usr/bin/env python3
+import argparse
+import numpy as np
+import os
+import pandas as pd
+import requests
+import sys
+
+
+GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
+HEADERS = {'Authorization': 'Bearer %s' % (GITHUB_TOKEN)}
+
+
+def gh_query(query: str):
+    request = requests.post('https://api.github.com/graphql', json={'query': query}, headers=HEADERS)
+    if request.status_code != 200:
+        raise Exception(f'Query failed with status code {request.status_code}: {query}')
+    return request.json()
+
+
+def parse_github_url(url: str):
+    if not url.startswith('https://github.com'):
+        return None
+    
+    tokens = url.split('/')
+    if len(tokens) != 5:
+        return None
+    
+    return tokens[-2:]
+
+
+def update(x: pd.Series) -> pd.Series:
+    # check whether url is a github url
+    gh_repo = parse_github_url(x.url)
+
+    # update github stars
+    if gh_repo is not None:
+        owner, name = gh_repo
+        query = '''
+            query {
+                repository(owner: "%s", name: "%s") {
+                    stargazerCount
+                }
+            }
+            ''' % (owner, name)
+        result = gh_query(query)
+        x.github_stars = result['data']['repository']['stargazerCount']
+    else:
+        x.github_stars = np.nan
+
+    return x
+
+
+def update_safe(x: pd.Series) -> pd.Series:
+    try:
+        sys.stderr.write('Updating \'%s\'...\n' % (x['name']))
+        return update(x)
+    except Exception as e:
+        sys.stderr.write('Failed to update \'%s\': %s\n' % (x['name'], e))
+        return x
+
+
+def main():
+    # parse command-line args
+    parser = argparse.ArgumentParser()
+    parser.add_argument('input', help='Input dataset (CSV)')
+
+    args = parser.parse_args()
+
+    # load input file
+    df = pd.read_csv(args.input)
+
+    # fetch github metadata
+    df = df.apply(lambda x: update_safe(x), axis='columns')
+
+    # save output file
+    df.to_csv(args.input, index=False, float_format='%.0f')
+
+
+if __name__ == '__main__':
+    main()
