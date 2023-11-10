@@ -24,6 +24,9 @@ jobs:
         ./update workflow-systems.csv
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Update analysis
+      run: |
+        jupyter nbconvert --to=notebook --execute --inplace analysis.ipynb
     - name: Commit
       run: |
         git config --local user.name "github-actions[bot]"

@@ -1,6 +1,6 @@
 # awesome-workflow
 
-An awesome list of workflow systems.
+An awesome list of workflow systems. See the [table](workflow-systems.csv) and the [analysis](analysis.ipynb).
 
 Sources:
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
