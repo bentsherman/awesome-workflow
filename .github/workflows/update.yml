@@ -3,10 +3,13 @@ on: workflow_dispatch
 permissions:
   contents: read
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+        persist-credentials: false
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
@@ -18,5 +21,13 @@ jobs:
     - name: Update metadata
       run: |
         ./update workflow-systems.csv
-        git commit -am 'Update metadata'
-        git push
+    - name: Commit
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git commit -am "Update metadata"
+    - name: Push
+      uses: ad-m/github-push-action@v0.8.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
