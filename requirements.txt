@@ -1,3 +1,7 @@
+ipykernel
+matplotlib
+nbconvert
 numpy
 pandas
 requests
+seaborn
