@@ -152,6 +152,7 @@ Ketrew,https://github.com/hammerlab/ketrew,OCaml,,74
 Kiba,https://github.com/thbar/kiba,Ruby / DSL,Data engineering,1711
 KNIME,https://github.com/knime/knime-core,GUI,Data science,480
 Kogito,https://github.com/kiegroup/kogito-runtimes,GUI / Java,IT automation,11
+Koheesio,https://github.com/Nike-Inc/koheesio,Python,Data engineering,609
 Kronos,https://github.com/jtaghiyar/kronos,YAML,Biology,18
 Kubeflow Pipelines,https://github.com/kubeflow/pipelines,Python / YAML,Data engineering,3324
 Kurator-Akka,https://github.com/kurator-org/kurator-akka,YAML / Java / Python,Biology,7
@@ -163,7 +164,8 @@ Loom,https://github.com/StanfordBioinformatics/loom,YAML,Biology,29
 looper,https://github.com/pepkit/looper,YAML,,15
 Luigi,https://github.com/spotify/luigi,Python,Data engineering,16892
 MaDaTs,https://github.com/dghoshal-lbl/madats,Python / YAML,,1
-Maestro,https://github.com/LLNL/maestrowf,YAML,,121
+Maestro (LLNL),https://github.com/LLNL/maestrowf,YAML,,121
+Maestro (Netflix),https://github.com/Netflix/maestro,YAML / Java / Python,Data engineering,3347
 Mage,https://github.com/mage-ai/mage-ai,GUI / Notebook,Data science,5842
 maize,https://github.com/MolecularAI/maize,Python,Chemistry,2
 Make,https://www.gnu.org/software/make/,Make,Build automation,
